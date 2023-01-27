@@ -1,3 +1,5 @@
 this is demo
 colors
 video call
+
+payment mode
